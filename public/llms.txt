@@ -1,0 +1,78 @@
+# Odelia Nails — Generative Engine Optimization Map
+
+> Odelia Nails is a professional nail and manicure studio offering a full range of nail services including Russian manicure, gel polish, nail extensions, acrylic/gel builds, and nail art. The studio emphasizes precision, quality, and a flawless finish. Located at a convenient address with elevator access and nearby parking, the business operates Sunday through Friday with an online 24/7 booking system. The brand has a clean, professional, and feminine identity with a focus on client convenience and appointment management.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סטודיו לציפורניים עם מניקור רוסי מדויק, לק ג&#39;ל ושלל שירותי טיפוח. תורי יופי אונליין 24/7 בנוחות מקסימלית. בואי לזרוח איתנו!
+
+### שירותים ומחירים
+https://example.com/services
+מבנה ג&#39;ל, הארכת ציפורניים, לק ג&#39;ל ואמנות ציפורניים במחירים שקופים. איכות ללא פשרות מהבסיס ועד הגימור. היכנסי לתפריט השירותים!
+
+### גלריה
+https://example.com/gallery
+גלריית ציפורניים מהממות: עיצובים עדכניים, גימורים מושלמים וצבעים שיגנבו לך את ההצצה. ראי בעינייך את האיכות וקבעי תור עוד היום!
+
+### צור קשר והזמנות
+https://example.com/contact
+צרי קשר וקבעי תור בקלות: כתובת נגישה עם מעלית, חניה קרובה ומערכת הזמנות אונליין זמינה 24/7. אנחנו מחכות לך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Odelia Nails
+Odelia Nails is a professional nail and manicure studio offering a full range of nail services including Russian manicure, gel polish, nail extensions, acrylic/gel builds, and nail art. The studio emphasizes precision, quality, and a flawless finish. Located at a convenient address with elevator access and nearby parking, the business operates Sunday through Friday with an online 24/7 booking system. The brand has a clean, professional, and feminine identity with a focus on client convenience and appointment management.
+
+## Target Audience
+- אנשי מקצוע עסוקים
+- כלות לעתיד
+- משפיעניות אופנה
+
+## Industry
+Beauty & Nail Care
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
